@@ -1,0 +1,9 @@
+{
+  "name": "webpack-codegen",
+  "version": "0.0.1",
+  "description": "a webpack plugin for doing typescript codegen",
+  "main": "index.js",
+  "repository": "git@github.com:stephen/webpack-codegen.git",
+  "author": "Stephen Wan <stephen@stephenwan.com>",
+  "license": "MIT"
+}
